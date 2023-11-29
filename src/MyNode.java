@@ -9,7 +9,7 @@ package tree;
  */
 public class MyNode {
   private MyNode father;
-  private MyNode mother;
+  private MyNode mother; // Another comment
   private MyNode son;
   private MyNode left;
   private MyNode right;
