@@ -13,6 +13,7 @@ public class MyNode {
   private MyNode left; //added left
   private MyNode right; //added right
   private int value; //value more value!!!!
+  //comment added
 
   /**
    * Class constructor initializing this node's value.
