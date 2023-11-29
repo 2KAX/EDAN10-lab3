@@ -10,7 +10,7 @@ package tree;
 public class MyNode {
   private MyNode father; //added father
   private MyNode mother; //mother was added because father was alone (however, father and mother could be replaced by 2 parents to be more general)
-  private MyNode left;
+  private MyNode left; //added left
   private MyNode right;
   private int value;
 
