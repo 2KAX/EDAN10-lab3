@@ -5,11 +5,16 @@ package tree;
  *
  * @author Torbjorn Ekman
  * @see MyTree
- * @comment
+ * comment changed
  */
 public class MyNode {
   private MyNode father;
+<<<<<<< HEAD
   private MyNode mother; //mother was added because father was alone (however, father and mother could be replaced by 2 parents to be more general)
+=======
+  private MyNode mother; // Another comment
+  private MyNode son;
+>>>>>>> 1f75681b690ad1e9cc9a8b3aca3f7f7c65c514b5
   private MyNode left;
   private MyNode right;
   private int value;
