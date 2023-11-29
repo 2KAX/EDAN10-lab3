@@ -5,6 +5,7 @@ package tree;
  *
  * @author Torbjorn Ekman
  * @see MyTree
+ * @comment
  */
 public class MyNode {
   private MyNode father;
